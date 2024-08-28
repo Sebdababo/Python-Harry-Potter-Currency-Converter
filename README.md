@@ -31,3 +31,7 @@ This Python program converts Harry Potter currency (Galleons, Sickles, and Knuts
 3. Enter the amount of each coin type when prompted.
 4. Enter the currency you want to convert to (Galleon, Sickle, Knut).
 5. The program will display the total amount in the desired currency.
+
+## Example Usage
+
+![hp currency converter output](https://github.com/user-attachments/assets/330e28d0-4f45-4447-adf0-b774aa2de75d)
